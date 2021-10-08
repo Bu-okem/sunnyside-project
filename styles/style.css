@@ -109,14 +109,14 @@ header h1 {
   text-align: center;
   position: absolute;
   left: 3vw;
-  bottom: 52vh;
+  bottom: 53vh;
   z-index: 1;
 }
 
 .arrow-down {
   position: absolute;
   right: 46vw;
-  bottom: 27.6vh;
+  bottom: 28.6vh;
 }
 
 .whitecards-image img {
