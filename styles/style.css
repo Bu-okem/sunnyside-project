@@ -91,6 +91,7 @@ nav li a {
   padding: 1.6em 2em 0.2em 22em;
   z-index: 30;
   background-color: #34c1ff;
+  ccursor: pointer;
 }
 
 header {
